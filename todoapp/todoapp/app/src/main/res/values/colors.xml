@@ -1,0 +1,10 @@
+<resources>
+    <color name="orange">#FFFF8100</color>
+    <color name="dark_green">#FF6f9c3d</color>
+    <color name="lime_green">#FFA5D805</color>
+    <color name="bada">#FFBADA55</color>
+    <color name="darker_green">#FF10190B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_700">#FFD32F2F</color>
+</resources>
